@@ -1,0 +1,10 @@
+/* Styles go here */
+table {
+  border: 1px solid grey;
+}
+tr:nth-child(even) {
+  background-color:#adadad;
+}
+td {
+  padding:10px;
+}
